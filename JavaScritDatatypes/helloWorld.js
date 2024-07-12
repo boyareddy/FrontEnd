@@ -106,8 +106,3 @@ a =10;
 console.log(a);
 
 
-// non-primtive Date types -  multi values store 
-/* 
-1. array 
-2.object
-*/
